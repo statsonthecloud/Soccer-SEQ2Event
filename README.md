@@ -6,7 +6,7 @@
 <img width="881" alt="model_overview" src="https://user-images.githubusercontent.com/42736833/183763462-55251334-a952-420b-b959-38392e34ebcf.PNG">
 </center>
 
-Paper available at: [https://eprints.soton.ac.uk/458099/](https://eprints.soton.ac.uk/458099/)
+Associated paper available at: [https://eprints.soton.ac.uk/458099/](https://eprints.soton.ac.uk/458099/)
 
 Code developed initially as part of dissertation during MSc Data Science studies at the University of Southampton. Later written-up into paper and accepted at [KDD 2022](https://kdd.org/kdd2022/). Code associated with the latter tidied up, both sets of code provided (two notebooks each, four in total).
 
