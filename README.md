@@ -1,8 +1,10 @@
 # Seq2Event: Learning the Language of Soccer using Transformer-based Match Event Prediction
 **An RNN/Transformer model architecture for predicting the next event given prior match events in soccer.**
 
+<center>
 <img width="897" alt="overview_graphic" src="https://user-images.githubusercontent.com/42736833/183763448-a0e5364f-b4dc-4088-815d-047a2ff76ddd.PNG">
 <img width="881" alt="model_overview" src="https://user-images.githubusercontent.com/42736833/183763462-55251334-a952-420b-b959-38392e34ebcf.PNG">
+</center>
 
 Paper available at: [https://eprints.soton.ac.uk/458099/](https://eprints.soton.ac.uk/458099/)
 
